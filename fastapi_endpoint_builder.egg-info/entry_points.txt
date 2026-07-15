@@ -1,0 +1,2 @@
+[console_scripts]
+fastapi-builder = fastapi_builder_core.main:start_cli

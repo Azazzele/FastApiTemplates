@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.vscode/
+.idea/
+*.db
+sql_app.db
+app/
+tests/
+Dockerfile
+docker-compose.yml
+requirements.txt

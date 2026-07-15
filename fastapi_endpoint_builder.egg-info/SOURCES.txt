@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+fastapi_builder_core/templates/index.html
+fastapi_builder_core/templates/style.css
+fastapi_endpoint_builder.egg-info/PKG-INFO
+fastapi_endpoint_builder.egg-info/SOURCES.txt
+fastapi_endpoint_builder.egg-info/dependency_links.txt
+fastapi_endpoint_builder.egg-info/entry_points.txt
+fastapi_endpoint_builder.egg-info/requires.txt
+fastapi_endpoint_builder.egg-info/top_level.txt
